@@ -4,20 +4,13 @@
             "outputFile": "/home/abdelkhalek/test-app/android/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-large-v4/values-large-v4.xml",
             "map": [
                 {
-                    "source": "/home/abdelkhalek/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/43397d1729cec6200ab896ddfc44938d/res/values-large/values-large.xml",
+                    "source": "/home/abdelkhalek/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/02ca0a52ea9392c659bd32a3c32bc1b3/res/values-large-v4/values-large-v4.xml",
                     "from": {
-                        "startLines": "4,7,8,11,12,13,14,15,16,19,20",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "281,570,642,928,992,1059,1126,1192,1258,1545,1649",
-                        "endColumns": "61,71,58,63,66,66,65,65,54,103,115",
-                        "endOffsets": "338,637,696,987,1054,1121,1187,1253,1308,1644,1760"
-                    },
-                    "to": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,117,189,248,312,379,446,512,578,633,737",
-                        "endColumns": "61,71,58,63,66,66,65,65,54,103,115",
-                        "endOffsets": "112,184,243,307,374,441,507,573,628,732,848"
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,114,185,256,326,396,464,532,636",
+                        "endColumns": "58,70,70,69,69,67,67,103,115",
+                        "endOffsets": "109,180,251,321,391,459,527,631,747"
                     }
                 }
             ]
