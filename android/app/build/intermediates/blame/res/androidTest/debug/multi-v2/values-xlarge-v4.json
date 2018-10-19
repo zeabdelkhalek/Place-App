@@ -4,20 +4,13 @@
             "outputFile": "/home/abdelkhalek/test-app/android/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-xlarge-v4/values-xlarge-v4.xml",
             "map": [
                 {
-                    "source": "/home/abdelkhalek/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/43397d1729cec6200ab896ddfc44938d/res/values-xlarge/values-xlarge.xml",
+                    "source": "/home/abdelkhalek/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/02ca0a52ea9392c659bd32a3c32bc1b3/res/values-xlarge-v4/values-xlarge-v4.xml",
                     "from": {
-                        "startLines": "4,7,8,9,10,11,12",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "282,587,651,718,785,851,917",
-                        "endColumns": "76,63,66,66,65,65,54",
-                        "endOffsets": "354,646,713,780,846,912,967"
-                    },
-                    "to": {
-                        "startLines": "2,3,4,5,6,7,8",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "55,132,196,263,330,396,462",
-                        "endColumns": "76,63,66,66,65,65,54",
-                        "endOffsets": "127,191,258,325,391,457,512"
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,126,197,267,337,405",
+                        "endColumns": "70,70,69,69,67,67",
+                        "endOffsets": "121,192,262,332,400,468"
                     }
                 }
             ]
