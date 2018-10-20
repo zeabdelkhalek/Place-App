@@ -152,5 +152,6 @@
     <orderEntry type="module" module-name="react-native-navigation" />
     <orderEntry type="module" module-name="react-native-maps" />
     <orderEntry type="module" module-name="react-native-vector-icons" />
+    <orderEntry type="module" module-name="react-native-image-picker" />
   </component>
 </module>

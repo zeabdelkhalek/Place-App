@@ -824,6 +824,10 @@
         "source": "/home/abdelkhalek/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/4805da3f1cf2769f4cc7eecd4f3437d7/res/drawable-mdpi/abc_textfield_search_default_mtrl_alpha.9.png"
     },
     {
+        "merged": "/home/abdelkhalek/test-app/android/app/build/intermediates/res/merged/debug/xml_provider_paths.xml.flat",
+        "source": "/home/abdelkhalek/test-app/node_modules/react-native-image-picker/android/build/intermediates/bundles/debug/res/xml/provider_paths.xml"
+    },
+    {
         "merged": "/home/abdelkhalek/test-app/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_abc_btn_check_to_on_mtrl_015.png.flat",
         "source": "/home/abdelkhalek/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/4805da3f1cf2769f4cc7eecd4f3437d7/res/drawable-xxxhdpi/abc_btn_check_to_on_mtrl_015.png"
     },
@@ -1522,6 +1526,10 @@
     {
         "merged": "/home/abdelkhalek/test-app/android/app/build/intermediates/res/merged/debug/layout_notification_template_lines_media.xml.flat",
         "source": "/home/abdelkhalek/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/f209528220bf2c910bd6abeeacdd2688/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/home/abdelkhalek/test-app/android/app/build/intermediates/res/merged/debug/layout_list_item.xml.flat",
+        "source": "/home/abdelkhalek/test-app/node_modules/react-native-image-picker/android/build/intermediates/bundles/debug/res/layout/list_item.xml"
     },
     {
         "merged": "/home/abdelkhalek/test-app/android/app/build/intermediates/res/merged/debug/drawable-hdpi_abc_popup_background_mtrl_mult.9.png.flat",

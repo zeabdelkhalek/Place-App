@@ -796,6 +796,10 @@
         "source": "/home/abdelkhalek/.gradle/caches/transforms-1/files-1.1/ahbottomnavigation-2.0.6.aar/ebf4dccc3286b5195fa049748c469af2/res/drawable/notification_background.xml"
     },
     {
+        "merged": "/home/abdelkhalek/test-app/android/app/build/intermediates/res/merged/androidTest/debug/layout_list_item.xml.flat",
+        "source": "/home/abdelkhalek/test-app/node_modules/react-native-image-picker/android/build/intermediates/bundles/debug/res/layout/list_item.xml"
+    },
+    {
         "merged": "/home/abdelkhalek/test-app/android/app/build/intermediates/res/merged/androidTest/debug/color_abc_tint_edittext.xml.flat",
         "source": "/home/abdelkhalek/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/02ca0a52ea9392c659bd32a3c32bc1b3/res/color/abc_tint_edittext.xml"
     },
@@ -2882,6 +2886,10 @@
     {
         "merged": "/home/abdelkhalek/test-app/android/app/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
         "source": "/home/abdelkhalek/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/02ca0a52ea9392c659bd32a3c32bc1b3/res/drawable-xhdpi-v4/abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/home/abdelkhalek/test-app/android/app/build/intermediates/res/merged/androidTest/debug/xml_provider_paths.xml.flat",
+        "source": "/home/abdelkhalek/test-app/node_modules/react-native-image-picker/android/build/intermediates/bundles/debug/res/xml/provider_paths.xml"
     },
     {
         "merged": "/home/abdelkhalek/test-app/android/app/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi_abc_btn_check_to_on_mtrl_000.png.flat",
