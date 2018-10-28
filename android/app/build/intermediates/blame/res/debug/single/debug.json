@@ -440,6 +440,10 @@
         "source": "/home/abdelkhalek/.gradle/caches/transforms-1/files-1.1/play-services-base-10.0.1.aar/586b36479c924b2c48d3beb6f1d907fd/res/drawable-hdpi-v4/common_google_signin_btn_text_dark_pressed.9.png"
     },
     {
+        "merged": "/home/abdelkhalek/test-app/android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/home/abdelkhalek/test-app/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
         "merged": "/home/abdelkhalek/test-app/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_abc_list_pressed_holo_dark.9.png.flat",
         "source": "/home/abdelkhalek/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/4805da3f1cf2769f4cc7eecd4f3437d7/res/drawable-xhdpi/abc_list_pressed_holo_dark.9.png"
     },
