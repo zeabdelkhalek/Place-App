@@ -19,7 +19,7 @@
   },
   "dependencies": {
     "react": "16.3.1",
-    "react-native": "~0.55.2",
+    "react-native": "~0.70.4",
     "react-native-image-picker": "^0.26.10",
     "react-native-maps": "^0.21.0",
     "react-native-navigation": "^1.1.480",
